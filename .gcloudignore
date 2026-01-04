@@ -1,0 +1,12 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+node_modules/
+venv/
+env/
+*.pyc
+__pycache__/
+sonic-machine-3.zip
+*.log
+README.md
